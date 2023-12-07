@@ -3,7 +3,7 @@
 1. First install the `i18nize-react` globally using npm
 
 ```sh
-npm i -g i18nize-react
+npm i -g 
 ```
 
 2. Now in your react app run
@@ -17,7 +17,7 @@ Make sure there are no unstaged changes, you may need to `git reset --hard`.
 
 3. Now run.
 ```sh
-i18nize-react
+
 ```
 
 4. Go for lunch
