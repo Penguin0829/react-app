@@ -1,11 +1,3 @@
-# i18nize-react
-
-Internationalize legacy react apps in a lunch break.
-
-`i18nize-react` finds and replaces all the hardcoded string literals in your react project with i18n bindings. It uses `babel` to walk on react components and process them.
-
-![diff](./documentation/diff.png)
-
 ## Getting started
 
 1. First install the `i18nize-react` globally using npm
